@@ -17,6 +17,7 @@
 .prim-tx{
     font-family: sans-serif;
     text-align: center;  
+    margin: 20px;
 }
 
 .prim-tx--color{
@@ -60,6 +61,5 @@ a:link, a:visited, a:active {
 .show{
     display: flex;
     flex-wrap: wrap;
-
     width: 100%;
 }
