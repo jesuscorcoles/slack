@@ -3,18 +3,14 @@
     background-color: #541555;
     width: 100%;
     height: 1000px;
+    display: flex;
+    flex-direction: column;
 }
 
 .cab{
     display: flex;
     width: 100%;
     height: 70px;
-    margin: 0px;
-    justify-content: space-between;
-}
-
-.cab__b-nav{
-    display: flex;
     justify-content: space-between;
 }
 
