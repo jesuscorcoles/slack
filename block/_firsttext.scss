@@ -2,12 +2,15 @@
     background-color: #541555;
     width: 100%;
     height: 520px;
-    display: block;
-    flex-direction: column;
+    display: flex;
+
+
+
 }
 
 .b-ground{
     display: flex;
+    flex-direction: column;
     width: 100%;
     height: 400px;
     margin: 0px;
