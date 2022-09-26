@@ -1,11 +1,19 @@
+.hand{
+    display: flex;
+    position: fixed;
+    z-index: 100;
+    width: 80px;
+    right: 20px;
+    top: 550px;
+    border-radius: 10px;
+
+
+}
 .fond{
     background-color: #541555;
     width: 100%;
     height: 520px;
     display: flex;
-
-
-
 }
 
 .b-ground{
@@ -52,6 +60,12 @@
 .buttgoo{
     background-color: blue;
     color: white;
+
+
+}
+.buttpur{
+    background-color: #541555;
+
 }
 
 a:link, a:visited, a:active {
@@ -66,3 +80,4 @@ a:link, a:visited, a:active {
     flex-wrap: wrap;
     width: 100%;
 }
+
